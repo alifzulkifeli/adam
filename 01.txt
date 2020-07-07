@@ -1,1 +1,2 @@
 first commit this file
+i add another function on second commit 
