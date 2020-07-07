@@ -1,2 +1,3 @@
 first commit this file
-i add another function on second commit 
+i add another function on second commit
+add dummy function on third commit
